@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^20.2.0"
+  },
+  "employees": [
+    {
+      "employeeID": 1,
+      "name": "Kevin Lam",
+      "salary": 50000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 2,
+      "name": "Osiel ",
+      "salary": 6000000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 3,
+      "name": "Osiel ",
+      "salary": 50000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 4,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 5,
+      "name": "Osiel ",
+      "salary": 5000770,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 6,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 7,
+      "name": "Osiel ",
+      "salary": 5002300,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 8,
+      "name": "Jane Smith",
+      "salary": 60000,
+      "department": "Marketing"
+    }
+  ]
+}
